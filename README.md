@@ -1,4 +1,4 @@
-# # Hello
+# Hello
 
  This is the portfolio  that  i've created  to make it easy for people to know who  I am and what I'm doing. Creating an online portfolio is one of the best ways to show off my best work, all in one place. Users can see my portfolio and if someone needs to build a website, an application or is interested in a collaboration on a cool project they can contact me.
 
