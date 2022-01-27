@@ -12,3 +12,7 @@ project can understand each other more easily.
 - As a user, I want to have the application respond quickly to my actions so that I don't get bored. 
 - As a user, I want to see sensible and predictable URLs so that the application feels logical and transparent. 
 - As a user, I want to be able to use Unicode so that I can use any language I like. 
+
+### Wireframes
+
+I drew my wireframes using Balsamiq. I have done two wireframes for each page to show my consideration of how to make my website responsive.
