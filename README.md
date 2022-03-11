@@ -41,13 +41,18 @@ I drew my wireframes using Balsamiq. I have done two wireframes for each page to
 ### Technologies Used
 **Balsamiq**
 - I've used Balsamiq to create wireframes of my website before building the actual site.
+
 **HTML5**
 - The project uses HTML5 to create the basic elements and content of my website.
+
 **CSS3**
 - The project uses CSS3 to add custom styles to the elements and content of my website.
+
 **Bootstrap**
 - The project uses Bootstrap to add a responsive grid system, prebuilt components, plugins built on jQuery, and Bootstrap styles to my website, before adding my custom styles.
+
 **Git** 
 - I've used Git as a version control system to regularly add and commit changes made to project in Cloud9, before pushing them to GitHub.
+
 **GitHub** 
 - I've used GitHub as a remote repository to push and store the committed changes to my project from Git. I've also used GitHub pages to deploy my website in a live environment.
