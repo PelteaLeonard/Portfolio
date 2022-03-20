@@ -34,25 +34,19 @@ I drew my wireframes using Balsamiq. I have done two wireframes for each page to
 
 ### Features
 #### Existing Features
-* Home button * - Takes the user to the starting point of my portfolio.
-* About button * - Takes the user to about section in my portfolio where I wrote something about me.
-* Portfolio button * - Takes the user to portfolio section where is going to show all my projects that I've done till that moment.
-* Contact button * - Takes the user to contact section where people  can contact me.
-* Hamburger button * - Clicking the hamburger button triggers a full screen overlay menu containing the navigation links to all pages on my website.
+**Home button** - Takes the user to the starting point of my portfolio.
+**About button** - Takes the user to about section in my portfolio where I wrote something about me.
+**Portfolio button** - Takes the user to portfolio section where is going to show all my projects that I've done till that moment.
+**Contact button** - Takes the user to contact section where people  can contact me.
+**Hamburger button** - Clicking the hamburger button triggers a full screen overlay menu containing the navigation links to all pages on my website.
 
 ### Technologies Used
-*Balsamiq*
-- I've used Balsamiq to create wireframes of my website before building the actual site.
-*HTML5*
-- The project uses HTML5 to create the basic elements and content of my website.
-*CSS3*
-- The project uses CSS3 to add custom styles to the elements and content of my website.
-*Bootstrap*
-- The project uses Bootstrap to add a responsive grid system, prebuilt components, plugins built on jQuery, and Bootstrap styles to my website, before adding my custom styles.
-*Git*
-- I've used Git as a version control system to regularly add and commit changes made to project in Cloud9, before pushing them to GitHub.
-*GitHub*
-- I've used GitHub as a remote repository to push and store the committed changes to my project from Git. I've also used GitHub pages to deploy my website in a live environment.
+**Balsamiq** - I've used Balsamiq to create wireframes of my website before building the actual site.
+**HTML5** - The project uses HTML5 to create the basic elements and content of my website.
+**CSS3** - The project uses CSS3 to add custom styles to the elements and content of my website.
+**Bootstrap** - The project uses Bootstrap to add a responsive grid system, prebuilt components, plugins built on jQuery, and Bootstrap styles to my website, before adding my custom styles.
+**Git** - I've used Git as a version control system to regularly add and commit changes made to project in Cloud9, before pushing them to GitHub.
+**GitHub** - I've used GitHub as a remote repository to push and store the committed changes to my project from Git. I've also used GitHub pages to deploy my website in a live environment.
 
 #### Existing Features
 
