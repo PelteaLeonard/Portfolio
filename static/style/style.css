@@ -154,6 +154,7 @@ h3.heading{
 
 /* Home Section */
 /* Inspired by https://www.youtube.com/watch?v=zX3ikOsQg58 */
+
 #home{
     display:flex;
     flex-direction:column; 
@@ -166,20 +167,18 @@ h3.heading{
    
 }
 
-
 #home::before{
-    content:"" ;
-    position:absolute;
-    top:0;
-    right: 0;
+    content:" ";
+    position: absolute;
     background: url("static/background/book.jpg") no-repeat center center/cover;
+    top: 0;
+    right: 0;
     height: 900px;
     width: 100%; 
     z-index: -1;
     opacity: .9;
 
-}
-   
+}   
 
 .main{
     display:flex;
