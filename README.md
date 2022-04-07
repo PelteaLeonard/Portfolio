@@ -54,6 +54,10 @@ There are some differences between my wireframes and my final website.
 
 **Hamburger button** - Clicking the hamburger button triggers a full screen overlay menu containing the navigation links to all pages on my website.
 
+#### Features left to implement
+
+- **Hamburger button** - I will add some functionality to the hamburger buttons.
+
 ### Technologies Used
 **Balsamiq** - I've used Balsamiq to create wireframes of my website before building the actual site.
 
@@ -66,3 +70,52 @@ There are some differences between my wireframes and my final website.
 **Git**  - I've used Git as a version control system to regularly add and commit changes made to project in Cloud9, before pushing them to GitHub.
 
 **GitHub** - I've used GitHub as a remote repository to push and store the committed changes to my project from Git. I've also used GitHub pages to deploy my website in a live environment.
+
+
+### Testing
+
+#### Responsive Testing
+
+- I used Google Chrome's Development tools to constantly test each change that I made to my website and to ensure that it appeared in the desired way on different screen sizes. I also tested my website on different screen sizes (mobile, tablet and desktop) to ensure it appeared in the desired way on different devices.
+- To test my whole website, I went through each page, feature by feature, and documented the results on a spreadsheet. The spreadsheet also documents any responsive features and confirms that they work and appear as intended on different screen sizes. 
+
+### HTMl and CSS Validation
+- I used the [W3C HTML Validator](https://validator.w3.org/#validate_by_input) to validate my HTMl code.
+- i used the[W3c CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) to validate my CSS code.
+
+### Deployment
+The hosting platform that I've used for my project is GitHub Pages. To deploy my website to GitHub pages, I used the following steps:
+Loaded the terminal window in my Cloud9 workspace.
+
+Initialised Git using the git init command.
+
+Added all files to the Staging area (Git) using the git add . command.
+
+Committed the files to Git using the git commit -m "Initial commit" command.
+
+Created a new repository in GitHub called 'monkees-milestone-project-one'.
+
+Copied the below code from GitHub into the terminal window in my Cloud9 workspace:
+
+git remote add origin https://github.com/PelteaLeonard/Portfolio.git
+
+git push -u origin master
+
+Entered my GitHub username and password to push the files from Git to GitHub.
+
+Went into 'Settings' on my repository page in GitHub.
+
+Selected the 'master branch' option under the 'GitHub Pages' section.
+
+Ran several regular commits throughout my project.
+
+### Repository Link
+https://github.com/PelteaLeonard/Portfolio
+
+### Credits
+
+#### Acknowledgements
+- I received inspisation for the final look of my project from my girlfriend.
+- A special mention to my mentor, Sunny Hebbar , for his feedback on my project's scope and design, and for hints on what information to include in my README.md file to justify my stylistic choices.
+
+
