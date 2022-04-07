@@ -31,14 +31,14 @@ accustomed to.
 
 I drew my wireframes using Balsamiq. I have done two wireframes for each page to show my consideration of how to make my website responsive. The links to the files are below:
 
--[home(md-lg-and-xl)]{https://github.com/PelteaLeonard/Portfolio/blob/master/static/wireframes/home(md-lg-and-xl).png}
--[home(sm)]{https://github.com/PelteaLeonard/Portfolio/blob/master/static/wireframes/home(sm).png}
--[about(md-lga-md-xl]{https://github.com/PelteaLeonard/Portfolio/blob/master/static/wireframes/about(md-lga-md-xl).png}
--[about(sm)]{https://github.com/PelteaLeonard/Portfolio/blob/master/static/wireframes/about(sm).png}
--[portfolio(md-lg-and-xl)]{https://github.com/PelteaLeonard/Portfolio/blob/master/static/wireframes/portfolio(md-lg-and-xl).png}
--[portfolio(sm)]{https://github.com/PelteaLeonard/Portfolio/blob/master/static/wireframes/portfolio(sm).png}
--[contact(md-lg-and-xl]{https://github.com/PelteaLeonard/Portfolio/blob/master/static/wireframes/contact(md-lg-and-xl).png}
--[contact(sm)]{https://github.com/PelteaLeonard/Portfolio/blob/master/static/wireframes/contact(sm).png}
+-[home.html (md-lg-and-xl)](https://github.com/PelteaLeonard/Portfolio/blob/master/static/wireframes/home(md-lg-and-xl).png)
+-[home.html (sm)](https://github.com/PelteaLeonard/Portfolio/blob/master/static/wireframes/home(sm).png)
+-[abou.htmlt (md-lga-md-xl](https://github.com/PelteaLeonard/Portfolio/blob/master/static/wireframes/about(md-lga-md-xl).png)
+-[about.html (sm)](https://github.com/PelteaLeonard/Portfolio/blob/master/static/wireframes/about(sm).png)
+-[portfolio.html (md-lg-and-xl)](https://github.com/PelteaLeonard/Portfolio/blob/master/static/wireframes/portfolio(md-lg-and-xl).png)
+-[portfolio.html (sm)](https://github.com/PelteaLeonard/Portfolio/blob/master/static/wireframes/portfolio(sm).png)
+-[contact.html (md-lg-and-xl](https://github.com/PelteaLeonard/Portfolio/blob/master/static/wireframes/contact(md-lg-and-xl).png)
+-[contact.html (sm)](https://github.com/PelteaLeonard/Portfolio/blob/master/static/wireframes/contact(sm).png)
 
 There are some differences between my wireframes and my final website.
 
