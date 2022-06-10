@@ -20,7 +20,7 @@ My portfolio is a great way to demonstrate the compentencies I would list on my 
 - As a user, I want to be able to use Unicode so that I can use any language I like.  
 - As a site visitor, I want to be able to get back to the home page quickly and easily, so I don’t get lost navigating
 and so the site works like every other site in the world.
--As a visitor, I want to be able to view the site and videos in any reasonable browser so that I can use what I’m
+- As a visitor, I want to be able to view the site and videos in any reasonable browser so that I can use what I’m
 accustomed to. 
 
 
@@ -91,7 +91,7 @@ Added all files to the Staging area (Git) using the git add . command.
 
 Committed the files to Git using the git commit -m "Initial commit" command.
 
-Created a new repository in GitHub called 'monkees-milestone-project-one'.
+Created a new repository in GitHub called 'Portfolio'.
 
 Copied the below code from GitHub into the terminal window in my Cloud9 workspace:
 
